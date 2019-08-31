@@ -39,6 +39,6 @@ Pull
 - Explicar commit a ser realizado (pull_003.png)
 - Comando git pull no git bash, mantend0 o ramo master(pull_004.png)
 
-Checkout
+Checkout 
 - Comando git checkout no git bash para resetar o arquivo README.md
 para a versão inicial (checkout_001.png)
